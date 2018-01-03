@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rj)(type KiCad)(uri ${KIPRJMOD}/footprints/rj.pretty)(options "")(descr ""))
+)

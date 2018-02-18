@@ -93,17 +93,17 @@ Wire Wire Line
 	2775 3075 2975 3075
 Wire Wire Line
 	2775 3175 2975 3175
-Text Label 4925 2950 0    60   ~ 0
-IDC-1
-Text Label 3800 2950 2    60   ~ 0
-IDC-2
-Text Label 4925 2850 0    60   ~ 0
-IDC-3
-Text Label 3800 2850 2    60   ~ 0
-IDC-4
-Text Label 4925 2750 0    60   ~ 0
-IDC-5
 Text Label 3800 2750 2    60   ~ 0
+IDC-1
+Text Label 4925 2750 0    60   ~ 0
+IDC-2
+Text Label 3800 2850 2    60   ~ 0
+IDC-3
+Text Label 4925 2850 0    60   ~ 0
+IDC-4
+Text Label 3800 2950 2    60   ~ 0
+IDC-5
+Text Label 4925 2950 0    60   ~ 0
 IDC-6
 Wire Wire Line
 	3800 2750 4175 2750
